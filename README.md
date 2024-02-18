@@ -1,5 +1,5 @@
 Description
-The application must allow the management of dissertation requests.
+The application allows the management of dissertation requests.
 
 The platform is based on a Single Page Application web architecture accessible in a desktop browser, on mobile devices, or tablets (considering user preferences).
 Functionalities:
